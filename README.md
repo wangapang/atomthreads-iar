@@ -1,3 +1,8 @@
+New notes 2020/01/07：
+1. 该RTOS已完成IAR-STM8S配置，可直接运行工程，IAR工程路径atomthreads-iar\ports\stm8\EWSTM8
+2. 入口文件：atomthreads-iar\ports\stm8\main.c
+3. STM8S外设lib: atomthreads-iar\ports\stm8\stm8s-periphs
+
 ---------------------------------------------------------------------------
 
  * Library: Atomthreads
