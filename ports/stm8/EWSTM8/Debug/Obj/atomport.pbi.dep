@@ -1,0 +1,2 @@
+atomport.pbi: D:\workspace\atomthreads\ports\stm8\atomport.c \
+  D:\workspace\atomthreads\ports\stm8/atomport-private.h

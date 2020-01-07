@@ -1,0 +1,4 @@
+stm8s_clk.pbi: \
+  D:\workspace\atomthreads\ports\stm8\stm8s-periphs\stm8s_clk.c \
+  D:\workspace\atomthreads\ports\stm8\stm8s-periphs/stm8s_clk.h \
+  D:\workspace\atomthreads\ports\stm8\stm8s-periphs/stm8s.h

@@ -1,0 +1,22 @@
+timer1.pbi: D:\workspace\atomthreads\tests\timer1.c \
+  D:\workspace\atomthreads\ports\stm8\EWSTM8/../../../kernel\atom.h \
+  D:\workspace\atomthreads\ports\stm8\EWSTM8/../../../kernel/atomtimer.h \
+  D:\workspace\atomthreads\ports\stm8\EWSTM8/../../../ports/stm8\atomport.h \
+  D:\workspace\atomthreads\ports\stm8\EWSTM8/../../../ports/stm8/stm8s_type.h \
+  D:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  D:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stddef.h \
+  D:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ycheck.h \
+  D:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\yvals.h \
+  D:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Defaults.h \
+  D:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\LIB\dlstm8smn.h \
+  D:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Product.h \
+  D:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\xencoding_limits.h \
+  D:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Threads.h \
+  D:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ysizet.h \
+  D:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stdint.h \
+  D:\workspace\atomthreads\ports\stm8\EWSTM8/../../../kernel\atomsem.h \
+  D:\workspace\atomthreads\ports\stm8\EWSTM8/../../../kernel\atomtimer.h \
+  D:\workspace\atomthreads\tests/atomtests.h \
+  D:\workspace\atomthreads\ports\stm8\EWSTM8/../../../ports/stm8\atomport-tests.h \
+  D:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stdio.h \
+  D:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ystdio.h

@@ -1,0 +1,4 @@
+stm8s_uart2.pbi: \
+  D:\workspace\atomthreads\ports\stm8\stm8s-periphs\stm8s_uart2.c \
+  D:\workspace\atomthreads\ports\stm8\stm8s-periphs/stm8s_uart2.h \
+  D:\workspace\atomthreads\ports\stm8\stm8s-periphs/stm8s.h
